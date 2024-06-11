@@ -1,0 +1,46 @@
+{
+  "produto": [
+    {
+      "id": "1",
+      "nome": "Produto 1",
+      "preco": 10
+    },
+    {
+      "id": "2",
+      "nome": "Produto 2",
+      "preco": 20
+    },
+    {
+      "id": "3",
+      "nome": "Produto 3",
+      "preco": 30
+    },
+    {
+      "id": "99",
+      "nome": "Produto99",
+      "preco": 40
+    },
+    {
+      "id": "100",
+      "nome": "Produto 100, oi diogo",
+      "preco": 100
+    },
+    {
+      "id": "77",
+      "nome": "Teste1",
+      "preco": 20
+    }
+  ],
+  "music":[
+    {
+      "title": "What I've Done",
+      "artist": "Linkin Park",
+      "url": "http://www.dominiopublico.gov.br/download/som/gu10287.mp3"
+    },
+    {
+      "title": "the Chains",
+      "artist": "Fleetwood Mac",
+      "url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1wLGp0WD088BJy85ynGYdNHlCKhQqFZBN"
+    }
+  ]
+}
